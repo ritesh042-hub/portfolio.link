@@ -1,0 +1,31 @@
+{
+  "name": "My Project Portfolio",
+  "tagline": "A collection of things I've built & deployed",
+  "projects": [
+    {
+      "title": "Secure Adaptive",
+      "description": "Adaptive, security-focused web application.",
+      "link": "https://secureadaptive.vercel.app"
+    },
+    {
+      "title": "Task 6",
+      "description": "A project built to solve Task 6 requirements.",
+      "link": "https://task6-two-taupe.vercel.app/"
+    },
+    {
+      "title": "StreamSphere",
+      "description": "Real-time video meeting & streaming platform.",
+      "link": "https://streamsphere-video-meeting.vercel.app"
+    },
+    {
+      "title": "Media Player",
+      "description": "Task 4 — a sleek web-based media player.",
+      "link": "https://task-4-media-player.vercel.app/"
+    },
+    {
+      "title": "Elevance Skills — Task 2 & 3",
+      "description": "Project built for Task 2 & 3, Elevance Skills program.",
+      "link": "https://task2-task3-for-elevance-skills.vercel.app/"
+    }
+  ]
+}
